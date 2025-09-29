@@ -1,0 +1,5 @@
+{
+  "name": "eDNA Classification Pipeline",
+  "description": "An AI-driven pipeline for eDNA classification using rRNA datasets. Upload DNA sequence files, run an ML classification pipeline, and visualize novelty detection results with charts and tables.",
+  "requestFramePermissions": []
+}
